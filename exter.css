@@ -1,0 +1,42 @@
+#you >a {
+  text-decoration: none;
+  color: white;
+  background-color: #212121;
+}
+
+#you >a:hover {
+  text-decoration: times;
+  color: white;
+  background-color: #5d4037;
+}
+
+
+#navbar-collapse > ul>li >a {
+  text-decoration: ;
+  color: white;
+  background-color: #212121;
+}
+
+#navbar-collapse > ul >li >a:hover {
+  text-decoration: times;
+  color: white;
+  background-color: #5d4037;
+}
+
+#navbar-header >a {
+  text-decoration: ;
+  font-family: algerian;
+  color: white;
+  background-color: #212121;
+}
+
+#navbar-header >a:hover {
+  text-decoration: times;
+  color: white;
+  background-color: #5d4037;
+}
+
+#my-navbar{
+background-color: #212121;
+}
+

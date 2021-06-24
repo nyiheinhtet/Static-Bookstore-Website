@@ -1,0 +1,77 @@
+#zz{padding-top: 150px;}
+    #ii{width:100%;}
+		
+		.page-header{font-family: times;}
+		p{font-family:verdana;}
+		address{font-family:verdana;}
+
+		.navbar-header{height:200px;padding-top: 100px;}
+		#navbar-collapse{padding-top: 100px;}
+		
+		
+		
+		<a href="#" class="list-group-item">Arts</a>
+                  <a href="#" class="list-group-item">Crafts</a>
+                  <a href="#" class="list-group-item">Photography</a>
+                  <a href="#" class="list-group-item">Biography</a>
+                  <a href="#" class="list-group-item">Business</a>
+                  <a href="#" class="list-group-item">Finance</a>
+                  <a href="#" class="list-group-item">Law</a>
+                  <a href="#" class="list-group-item">Children's Book</a>
+                  <a href="#" class="list-group-item">Fiction & Poetry</a>
+                  <a href="#" class="list-group-item">Food & Drink</a>
+                  <a href="#" class="list-group-item">Guardian Pulished Books</a>
+                  <a href="#" class="list-group-item">Health & Fitness</a>
+                  <a href="#" class="list-group-item">History</a>
+                  <a href="#" class="list-group-item">Home & Garden</a>
+                  <a href="#" class="list-group-item">Humour</a>
+                  <a href="#" class="list-group-item">Music</a>
+                  <a href="#" class="list-group-item">Stage & Screen</a>
+                  <a href="#" class="list-group-item">Nature & Environment</a>
+                  <a href="#" class="list-group-item">Politics</a>
+                  <a href="#" class="list-group-item">Popular Psychology</a>
+                  <a href="#" class="list-group-item">Puzzle Books</a>
+                  <a href="#" class="list-group-item">Science & Technology</a>
+                  <a href="#" class="list-group-item">Social & Culture</a>
+                  <a href="#" class="list-group-item">Sports & Leisure</a>
+                  <a href="#" class="list-group-item">Travel</a>
+				  
+				  
+				  
+				  
+				  
+				  
+				  <br>
+      <br>
+      <br>
+      <hr>
+      <div class="container col-lg-12 text-center">
+      <div class="panel panel-primary text-center" id="#cat">
+                 <div class="panel-heading">Categories</div>
+                 <br>
+              <a href="#sub"><button type="submit" class="btn btn-primary">Sub</button></a>
+              </div>
+            </div>
+			
+			
+			
+			
+			
+			
+			<div class="containerimg text-center col-lg-12">
+				<img src="books/logo.gif" class="img-responsive" style="align:center;width:100%;">
+					</div>
+
+			<div class="container text-center col-lg-12" id="ii">
+        <hr>
+        <div class="page-header text-center" id="index3.html" style="padding-bottom:30px;">
+            <h1>Home Page</h1>
+          </div>
+
+          </div> 	
+		  
+		  
+		  
+		  categories data
+		  validation final
+		  reports
